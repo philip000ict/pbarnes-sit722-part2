@@ -1,5 +1,6 @@
-fastapi
-uvicorn
-pydantic
-sqlalchemy
-psycopg2-binary
+fastapi==0.70.0
+uvicorn==0.15.0
+pydantic==1.6.2
+sqlalchemy==1.4.31
+psycopg2-binary==2.9.3
+gunicorn==19.7.1
